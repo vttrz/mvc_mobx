@@ -21,4 +21,4 @@ Projeto feito utilizando o padrão MVC + Mobx
     * Telas do app
 
 # linkedin
-    - https://www.linkedin.com/in/victor-alves-a06473181/
+    https://www.linkedin.com/in/victor-alves-a06473181/
